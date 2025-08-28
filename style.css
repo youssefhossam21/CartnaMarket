@@ -32,9 +32,17 @@ nav a:hover::after {
 
 /*---------------- login ------------------*/
 .Login {
-    background: rgba(255, 255, 255, 0.3); /* شفاف قليلاً */
+    background: rgba(255, 255, 255, 0.3);
+    /* شفاف قليلاً */
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
+    
+}
+
+.login-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 /*---------------- Hero Section ------------------*/
@@ -43,6 +51,7 @@ nav a:hover::after {
     background-image: url("https://res.cloudinary.com/dut9om5xu/image/upload/v1756283908/10078817_sm98cw.png");
     background-size: cover;
 }
+
 
 
 
@@ -96,14 +105,22 @@ nav a:hover::after {
 
 .card1 {
     background-size: cover;
-    background-position: top; 
+    background-position: top;
     height: 400px;
 }
 
 
-.card1-img1 { background-image: url("https://res.cloudinary.com/dut9om5xu/image/upload/v1756288578/Discover_25_Casual_Friday_Office_Outfits_for_Men_psufox.jpg"); }
-.card1-img2 { background-image: url("https://res.cloudinary.com/dut9om5xu/image/upload/v1756366649/6e429af3-dfd9-4d0d-adc0-6749f7707838_hvmxrf.jpg"); }
-.card1-img3 { background-image: url("https://res.cloudinary.com/dut9om5xu/image/upload/v1756288570/11cb037f-9b1c-406f-8b63-0f86bbcc697a_axuzfi.jpg"); }
+.card1-img1 {
+    background-image: url("https://res.cloudinary.com/dut9om5xu/image/upload/v1756288578/Discover_25_Casual_Friday_Office_Outfits_for_Men_psufox.jpg");
+}
+
+.card1-img2 {
+    background-image: url("https://res.cloudinary.com/dut9om5xu/image/upload/v1756366649/6e429af3-dfd9-4d0d-adc0-6749f7707838_hvmxrf.jpg");
+}
+
+.card1-img3 {
+    background-image: url("https://res.cloudinary.com/dut9om5xu/image/upload/v1756288570/11cb037f-9b1c-406f-8b63-0f86bbcc697a_axuzfi.jpg");
+}
 
 
 
