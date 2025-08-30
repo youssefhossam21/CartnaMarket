@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <div class="product col-6 col-md-4 col-lg-2 d-flex flex-column card p-2 m-2" data-section="${sectionId}" data-image="${item.image}">
                     <img src="${item.image}" class="card-img-top mb-2" loading="lazy" alt="Product">
                     <h4 class="text-center">${item.name}</h4>
-                    <p class="text-center">${item.price ? item.price + "$" : "غير محدد"}</p>
+                    <p class="text-center text-danger">${item.price ? item.price + "$" : "غير محدد"}</p>
                     <div class="d-flex justify-content-around">
                         <button class="btn btn-primary btn-sm add-cart"><i class="bi bi-bag-fill"></i></button>
                         <button class="btn btn-danger btn-sm add-wishlist"><i class="fa-regular fa-heart"></i></button>
