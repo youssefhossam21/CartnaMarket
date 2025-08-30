@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 { image: "https://res.cloudinary.com/dut9om5xu/image/upload/v1756283912/974646d3-ecba-41a4-a968-d28d63eae916_vdy9bs.jpg", name: "Pink Dress", price: "700" },
                 { image: "https://res.cloudinary.com/dut9om5xu/image/upload/v1756283628/samples/shoe.jpg", name: "Stylish Shoes", price: "250" },
                 { image: "https://res.cloudinary.com/dut9om5xu/image/upload/v1756287489/Lantern_Sleeve_Solid_Shirt_Hot_Pink_Casual_Long_qrivrp.jpg", name: "Lantern Sleeve Shirt", price: "1500" },
-                { image: "https://res.cloudinary.com/dut9om5xu/image/upload/v1756287488/%D9%85%D8%AD%D8%B5%D9%88%D9%84_%D8%AC%D8%AF%DB%8C%D8%AF_%D9%88%D8%B1%D9%82_%D8%A8%D8%B2%D9%86_%D9%88_%D8%AC%D8%AF%D9%88%D9%84_%D8%B3%D8%A7%DB%8C%D8%B2%D8%A8%D9%86%D8%AF%DB%8C%D8%B4%D9%88_wmljin.jpg", name: "New Product", price: "250" },
+                { image: "https://res.cloudinary.com/dut9om5xu/image/upload/v1756287488/%D9%85%D8%AD%D8%B5%D9%88%D9%84_%D8%AC%D8%AF%DB%8C%D8%AF_%D9%88%D8%B1%D9%82_%D8%A8%D8%B2%D9%86_%D9%88_%D8%AC%D8%AF%D9%88%D9%84_%D8%B3%D8%A7%DB%8C%D8%B2%D8%A8%D9%86%D8%AF%DB%8C%D8%B4%D9%88_wmljin.jpg", name: "New Product", price: "550" },
                 { image: "https://res.cloudinary.com/dut9om5xu/image/upload/v1756287658/Letter_Printed_Button_Half_Placket_Short_Sleeve_ozqjxf.jpg", name: "Printed Shirt", price: "600" }
             ],
             kids: [
@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 { image: "https://res.cloudinary.com/dut9om5xu/image/upload/v1756287479/SHEIN_Baby_Boy_Letter_Graphic_Polo_Shirt_Shorts_rt4d8w.jpg", name: "Baby Boy Set", price: "350" },
                 { image: "https://res.cloudinary.com/dut9om5xu/image/upload/v1756287477/Reiss_-_Dark_Sage_Textured_Half-Zip_Polo_T-Shirt_k2g1vr.jpg", name: "Reiss Polo", price: "500" },
                 { image: "https://res.cloudinary.com/dut9om5xu/image/upload/v1756287493/Effortless_Style_with_All-Day_Comfort__Feel_v8ziwy.jpg", name: "Comfy Style", price: "600" },
-                { image: "https://res.cloudinary.com/dut9om5xu/image/upload/v1756287983/%EC%97%AC%EB%A6%84_%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8%EC%9B%A8%EC%96%B4_100_%EB%A9%B4_%ED%8B%B0%EC%85%94%EC%B8%A0_%EB%A9%8B%EC%A7%84_%EA%B7%B8%EB%9E%98%ED%94%BC%ED%8B%B0_%ED%94%84%EB%A6%B0%ED%8A%B8_%EC%97%AC%EC%95%84_%ED%8B%B0_%EB%B0%98%ED%8C%94_%EC%96%B4%EB%A6%B0%EC%9D%B4_ipt0nq.jpg", name: "Comfy Style", price: "200" }
+                { image: "https://res.cloudinary.com/dut9om5xu/image/upload/v1756287983/%EC%97%AC%EB%A6%84_%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8%EC%9B%A8%EC%96%B4_100_%EB%A9%B4_%ED%8B%B0%EC%85%94%EC%B8%A0_%EB%A9%8B%EC%A7%84_%EA%B7%B8%EB%9E%98%ED%94%BC%ED%8B%B0_%ED%94%84%EB%A6%B0%ED%8A%B8_%EC%97%AC%EC%95%84_%ED%8B%B0_%EB%B0%98%ED%8C%94_%EC%96%B4%EB%A6%B0%EC%9D%B4_ipt0nq.jpg", name: "T-shirt with print", price: "250" }
             ]
         };
     }
